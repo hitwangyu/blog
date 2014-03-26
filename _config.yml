@@ -1,5 +1,4 @@
 markdown: rdiscount
-baseurl:
 permalink: /:title/
 url: http://www.hitwangyu.com
 name: www.hitwangyu.com
