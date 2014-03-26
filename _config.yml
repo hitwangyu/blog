@@ -1,4 +1,5 @@
 markdown: rdiscount
+baseurl: /blog
 permalink: /:title/
 url: http://blog.hitwangyu.com
 name: blog.hitwangyu.com
