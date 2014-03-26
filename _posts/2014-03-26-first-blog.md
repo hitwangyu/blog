@@ -1,7 +1,7 @@
 ---
 date: "2014-03-26"
 layout: post
-title: "first blog"
+title: "github上第一篇博客"
 categories: 日志
 tags: 博客
 ---
